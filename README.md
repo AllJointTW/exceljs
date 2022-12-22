@@ -1,5 +1,5 @@
 >__Warning__
-This is a **private fork** of the ExcelJS library (@nbelyh/exceljs). May be not the thing you are looking for :)
+This is a **private fork** of the ExcelJS library (@nbelyh/exceljs). May be not what are looking for :)
 
 # ExcelJS
 
