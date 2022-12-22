@@ -1,3 +1,6 @@
+>__Warning__
+This is a **private fork** of the ExcelJS library (@nbelyh/exceljs). May be not the thing you are looking for :)
+
 # ExcelJS
 
 [![Build status](https://github.com/exceljs/exceljs/workflows/ExcelJS/badge.svg)](https://github.com/exceljs/exceljs/actions?query=workflow%3AExcelJS)
